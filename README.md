@@ -1,5 +1,6 @@
 # Airbnb Accommodation Insights: Enhancing Decision-Making for Travelers
-Analyzing Airbnb accommodation trends in Broward County, Florida, using data visualization techniques in Tableau and Excel. This project aims to assist users in making data-driven accommodation choices.
+![Alt text](ABNB_Cover.jpg)
+
 # Overview
 This project uses advanced data visualization techniques to analyze Airbnb accommodation trends in Broward County, Florida. It offers insights into pricing, location ratings, property types, and optimal booking times, enabling users to make informed choices.
 # Project Objectives
@@ -42,4 +43,5 @@ This project uses advanced data visualization techniques to analyze Airbnb accom
 • **Description:** Contains listing details, location ratings, pricing, and availability.
 
 • **Size:** Over 1 million rows streamlined to essential 35 fields.
+# Key Visualization
 
