@@ -60,6 +60,14 @@ This project uses advanced data visualization techniques to analyze Airbnb accom
   <p>Fig 3: This visualization shows the total listing data</p>
 </div>
 
+# Conclusion
+The project effectively simplifies vacation planning in Broward County by providing a user-friendly dashboard that integrates factors like price, reviews, and property listings. The key insights include:
+
+1. Identify prime neighborhoods like Hollywood for cost-effective accommodations with abundant listings.
+2. Visualization of average prices per bedroom and insights into budgeting options, such as entire villas priced at ~$300/night.
+3. A breakdown of the most affordable and premium areas (e.g., Fort Lauderdale and Tarmac).
+4. Versatile adaptability for global Airbnb datasets, highlighting the potential for scalability beyond Broward County.
+
 # Recommendations
 1. **For Tourists**: Use the dashboard to select Airbnb options tailored to your preferences, streamlining vacation planning.
 2. **For Hosts**: Future development plans include dashboards to optimize pricing strategies and enhance business decisions.
