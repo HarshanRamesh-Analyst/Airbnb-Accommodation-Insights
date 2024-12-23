@@ -44,6 +44,7 @@ This project uses advanced data visualization techniques to analyze Airbnb accom
 
 • **Size:** Over 1 million rows streamlined to essential 35 fields.
 # Key Visualization
+![This visualization shows the average price of "Property Type"](IMAGES/Propert_Type.PNG)
 
-![Alt text](IMAGES/Property type.PNG)
+![This visualization shows the Top 5 Most visited Destination by reviews](IMAGES/Famous_Destination_by_Reviews.PNG)
 
