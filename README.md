@@ -60,3 +60,9 @@ This project uses advanced data visualization techniques to analyze Airbnb accom
   <p>Fig 3: This visualization shows the total listing data</p>
 </div>
 
+# Recommendations
+1. **For Tourists**: Use the dashboard to select Airbnb options tailored to your preferences, streamlining vacation planning.
+2. **For Hosts**: Future development plans include dashboards to optimize pricing strategies and enhance business decisions.
+3. **For Developers**: Expand this platform globally by integrating Airbnb datasets for other destinations.
+4. **For Improvement**: Gather user feedback to refine visuals and improve interactivity.
+
